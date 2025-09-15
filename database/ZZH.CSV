@@ -1,0 +1,9 @@
+﻿ZZH_FILIAL;ZZH_CODTAR;ZZG_CODIGO;ZZG_DESCRI;ZZH_RESPON;ZZH_STATUS;ZZH_DTCONC
+;0000000001;000001;Criar Banco de Dados                              ;Analista Giovanna                                 ;1;20250915
+;0000000001;000002;Criar fonte MVC                                   ;Analista Giovanna                                 ;2;20250915
+;0000000001;000003;Validar Funcionalidade da Rotina                  ;Analista Giovanna                                 ;2;20250915
+;0000000001;000004;Subir rotina Validada no Git                      ;Analista Giovanna                                 ;2;20250915
+;0000000002;000001;teste                                             ;teste                                             ;1;        
+;0000000003;000001;Relizar o escopo do projeto                       ;Analista Giovanna                                 ;1;20251031
+;0000000004;000001;Realizar o desenvolvimento da rotina em MVC       ;Analista Giovanna                                 ;2;20250915
+;0000000005;000001;Encontrar meios para arrecadar alimentos          ;Analista Giovanna                                 ;4;20250913
